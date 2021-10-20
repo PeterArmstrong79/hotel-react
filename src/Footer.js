@@ -5,7 +5,7 @@ const Footer = props => (
         <p>Contact Us By </p>
         <ul>
             {props.contacts.map((contact, i) => (
-li key={i}>{contact}</li>
+            <li key={i}>{contact}</li>
             ))}
         </ul>
     </footer>
