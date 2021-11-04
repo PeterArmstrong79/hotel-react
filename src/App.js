@@ -8,7 +8,7 @@ import "./App.css";
 
 const App = () => {
   const contactsList = [
-    "123 Fake Street, London, E1 4UD",
+    "125 Fake Street, London, E1 4UD",
     "hello@fakehotel.com",
     "0123 456789"
   ];
